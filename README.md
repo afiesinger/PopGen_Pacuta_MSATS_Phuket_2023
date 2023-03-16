@@ -5,10 +5,10 @@ Raw microsatellite marker sequence and allele reports for a population genetic s
 Data corresponding to the article "Population genetic differentiation of the ubiquitous brooding coral Pocillopora acuta along Phuket Island reefs in the Andaman Sea, Thailand" submitted to BMC Ecology and Evolution.
 
 Folders:
-MSAT_Raw_Seq_Multiplex_Panel_1
-MSAT_Raw_Seq_Multiplex_Panel_2
-MSAT_Raw_Seq_Multiplex_Panel_3
-MSAT_Raw_Seq_Multiplex_Panel_4
+MSAT_Raw_Seq_Multiplex_Panel_1;
+MSAT_Raw_Seq_Multiplex_Panel_2;
+MSAT_Raw_Seq_Multiplex_Panel_3;
+MSAT_Raw_Seq_Multiplex_Panel_4;
 
 Multiplex Panels for all microsatellite markers correspond to Multiplex PCRs and sequencing runs as indicated in Table 2 of the manuscript.
 
