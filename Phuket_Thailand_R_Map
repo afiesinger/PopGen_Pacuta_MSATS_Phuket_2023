@@ -1,4 +1,6 @@
 ---
+### R Script for the creation of a map of Thailand and Phuket Island ### 
+
 title: "Map of sampling sites"
 output: pdf_document
 
