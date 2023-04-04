@@ -1,6 +1,7 @@
 ---
-### R Script for the creation of a map of Thailand and Phuket Island ### 
+### R Script for the creation of a map of Thailand and Phuket Island created by Dr. Marlene Wall ### 
 ### maps downloaded from GADM.org; a freely available dataset of the world's maps for academic use ###
+### R Script was used to create all maps in Fiesinger et al. (2023): "Population genetic differentiation of the ubiquitous brooding coral Pocillopora acuta along Phuket Island reefs in the Andaman Sea, Thailand" ###
 
 title: "Map of sampling sites"
 output: pdf_document
