@@ -17,5 +17,10 @@ MSAT_Allele_Reports_complete
 
 File contains all raw allele reports obtained after allele calling in GeneMarker v1.91 (SoftGenetics), flagged alleles that did not correspond to nucleotide repeats for each microsatellite marker, the imputed dataset for missing alleles obtained from MicroDrop (Wang et al., 2012) as well as datasheets in the format for R and the Bayesian clustering analysis STRUCTURE (Pritchard et al., 2000).
 
+Script:
+Phuket_Thailand_R_Map
+
+R Script written by Dr. Marlene Wall for publication-level maps of Thailand as well as Phuket Island.
+
 
 
