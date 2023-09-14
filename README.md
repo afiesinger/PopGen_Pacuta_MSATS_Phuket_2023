@@ -2,7 +2,7 @@
 
 Raw microsatellite marker sequence and allele reports for a population genetic study using six microsatellite markers for nine Pocillopora acuta populations around Phuket Island, Thailand.
 
-Data corresponding to the article "Population genetic differentiation of the ubiquitous brooding coral Pocillopora acuta along Phuket Island reefs in the Andaman Sea, Thailand" submitted to BMC Ecology and Evolution.
+Data corresponding to the article Fiesinger et al. (2023): "Population genetic differentiation of the ubiquitous brooding coral Pocillopora acuta along Phuket Island reefs in the Andaman Sea, Thailand" published in BMC Ecology and Evolution.
 
 Folders:
 MSAT_Raw_Seq_Multiplex_Panel_1;
