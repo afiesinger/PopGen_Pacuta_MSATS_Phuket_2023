@@ -5,14 +5,14 @@ Raw microsatellite marker sequence and allele reports for a population genetic s
 ## Raw Data
 Multiplex Panels for all microsatellite markers correspond to Multiplex PCRs and sequencing runs as indicated in Table 2 of the manuscript:
 
-**MSAT_Raw_Seq_Multiplex_Panel_1;
-MSAT_Raw_Seq_Multiplex_Panel_2;
-MSAT_Raw_Seq_Multiplex_Panel_3;
-MSAT_Raw_Seq_Multiplex_Panel_4**
+**MSAT_Raw_Seq_Multiplex_Panel_1.zip;
+MSAT_Raw_Seq_Multiplex_Panel_2.zip;
+MSAT_Raw_Seq_Multiplex_Panel_3.zip;
+MSAT_Raw_Seq_Multiplex_Panel_4.zip**
 
 File contains all raw allele reports obtained after allele calling in GeneMarker v1.91 (SoftGenetics), flagged alleles that did not correspond to nucleotide repeats for each microsatellite marker, the imputed dataset for missing alleles obtained from MicroDrop (Wang et al., 2012) as well as datasheets in the format for R and the Bayesian clustering analysis STRUCTURE (Pritchard et al., 2000):
 
-**MSAT_Allele_Reports_complete**
+**MSAT_Allele_Reports_complete.xlsx**
 
 ## R Script 
 R Script written by Dr. Marlene Wall for publication-level maps of Thailand and sampling sites along Phuket Island.
