@@ -17,7 +17,7 @@ File contains all raw allele reports obtained after allele calling in GeneMarker
 ## R Script 
 R Script written by Dr. Marlene Wall for publication-level maps of Thailand and sampling sites along Phuket Island.
 
-**Phuket_Thailand_R_Map.R**
+**Phuket_Thailand_Maps.R**
 
 
 
